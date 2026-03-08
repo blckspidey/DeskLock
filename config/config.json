@@ -1,0 +1,7 @@
+{
+    "password": "admin",
+    "blocked_apps": [
+        "chrome.exe",
+        "cmd.exe"
+    ]
+}
