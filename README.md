@@ -126,7 +126,7 @@ Saved data includes:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/DeskLock.git
+git clone https://github.com/blckspidey/DeskLock.git
 cd DeskLock
 ```
 
